@@ -3,7 +3,7 @@ layout: default
 title: Student Blog
 ---
 
-## Luna's Page
+## Akshat's Page
 
 Go to my [Github account](https://github.com/lunaiwa) !!
 
