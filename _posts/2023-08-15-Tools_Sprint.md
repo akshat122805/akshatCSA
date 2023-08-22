@@ -23,3 +23,4 @@ Learning outcome.  Installing Tools and showing usage of VSCode.
 - Jupyter Notebooks will be used in conjunction with GitHub Pages to build running Code in your blog.
 - Slack Account, install the App on Laptop and/or phone, get used to reading announcements. Slack is the tool that we will use for messaging, we have been averaging 1000s of essages each year.
 - VSCode is the code editor we will be using in this class.  VSCode is more than and editor, this type of tool is often called an Interactive Development Environment (IDE). 
+
