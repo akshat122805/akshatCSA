@@ -22,7 +22,7 @@ Blogging in GitHub pages is a way to learn and code at the same time.
 | Honors Engineering       | Mr. Campillo    | 2      |
 | AP CSA       | Mr. Mort     | 3      |
 | AP Biology   | Cheskaty  | 4      |
-| Off Roll     | N/A      | 5      |
+| Internship     | N/A      | 5      |
 
 
 
