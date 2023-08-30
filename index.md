@@ -32,7 +32,7 @@ td, th {
 }
 
 tr:nth-child(even) {
-  background-color: #66ff00;
+  background-color: #000000;
 }
 </style>
 </head>
@@ -45,22 +45,25 @@ tr:nth-child(even) {
     <th>Week</th>
     <th>Hacks</th>
     <th>Personal Hacks</th>
+    <th>Review Ticket</th>
   </tr>
   <tr>
     <td>Week 0 - Tools and Equipment Overview</td>
-    <td><a href="https://akshat122805.github.io/akshatCSA/">Tools Setup</a></td>
-    <td><a href="https://akshat122805.github.io/akshatCSA/">Love Letter to Tools</a>
+    <td><a href="https://akshat122805.github.io/akshatCSA/c1.4/2023/08/15/Tools_Sprint.html">Tools Setup</a></td>
+    <td><a href="https://akshat122805.github.io/akshatCSA/c4.1/2023/08/25/loveletter.html">Love Letter to Tools</a>, <a href="https://akshat122805.github.io/akshatCSA/c4.1/2023/08/23/Calendar.html">JS Calendar</a>, <a href="https://akshat122805.github.io/akshatCSA/c4.1/2023/08/23/weekhacksone.html">GitHub Build</a>
+    <td>No Review Ticket</td>
 </td>
   </tr>
   <tr>
     <td>Week 1 - Java Hello</td>
-    <td><a href="https://akshat122805.github.io/akshatCSA/">First Java Notebook</a></td>
-    <td><a href="https://akshat122805.github.io/akshatCSA/">Mean,Median,Mode</a>, <a href="https://akshat122805.github.io/akshatCSA/">JavaScript Calculator</a>, <a href="https://akshat122805.github.io/akshatCSA/">Linux,Bash,Shell Hacks</a></td>
+    <td><a href="https://akshat122805.github.io/akshatCSA/2023/08/24/firstjava_IPYNB_2_.html">First Java Notebook</a></td>
+    <td><a href="https://akshat122805.github.io/akshatCSA/2023/08/24/firstjava_IPYNB_2_.html">Mean,Median,Mode</a>, <a href="https://akshat122805.github.io/akshatCSA/c4.1/2023/08/23/Calculator.html">JavaScript Calculator</a>, <a href="https://akshat122805.github.io/akshatCSA/2023/08/25/SHELLW1_IPYNB_2_.html">Linux,Bash,Shell Hacks</a></td>
+    <td>NO REVIEW TICKET</td>
   </tr>
   <tr>
     <td>Week 2 - JS Input/Output & Tunes API</td>
-    <td><a href="https://akshat122805.github.io/akshatCSA/">NBA Fetch API</a>, <a href="https://akshat122805.github.io/akshatCSA/">Tic-Tac-Toe Console Games</a></td>
-    <td><a href="https://akshat122805.github.io/akshatCSA/">Rating Medications Input/Output</a></td>
+    <td><a href="https://akshat122805.github.io/akshatCSA/2023/08/29/NBAfetch_IPYNB_2_.html">NBA Fetch API</a>, <a href="https://akshat122805.github.io/akshatCSA/2023/08/28/consolegames_IPYNB_2_.html">Tic-Tac-Toe Console Games</a></td>
+    <td><a href="https://akshat122805.github.io/akshatCSA/2023/08/30/QRSCANNER_IPYNB_2_.html">JS Rating Medications Input/Output</a></td>
   </tr>
   <tr>
     <td>Week 3 - Java Mario</td>
