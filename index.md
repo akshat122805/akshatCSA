@@ -14,19 +14,73 @@ Blogging in GitHub pages is a way to learn and code at the same time.
 - [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
 - Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
 
-# My Senior Schedule
+# Lab Notebook
 
-|    Class     | Teacher  | Period |
-|--------------|----------|--------|
-| AP Gov     | Mr. Coats  | 1      |
-| Honors Engineering       | Mr. Campillo    | 2      |
-| AP CSA       | Mr. Mort     | 3      |
-| AP Biology   | Cheskaty  | 4      |
-| Internship     | N/A      | 5      |
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
 
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
 
+tr:nth-child(even) {
+  background-color: #66ff00;
+}
+</style>
+</head>
+<body>
 
+<h2>Akshat's Lab Notebook</h2>
 
+<table>
+  <tr>
+    <th>Week</th>
+    <th>Hacks</th>
+    <th>Personal Hacks</th>
+  </tr>
+  <tr>
+    <td>Week 0 - Tools and Equipment Overview</td>
+    <td><a href="https://akshat122805.github.io/akshatCSA/">Tools Setup</a></td>
+    <td><a href="https://akshat122805.github.io/akshatCSA/">Love Letter to Tools</a>
+</td>
+  </tr>
+  <tr>
+    <td>Week 1 - Java Hello</td>
+    <td><a href="https://akshat122805.github.io/akshatCSA/">First Java Notebook</a></td>
+    <td><a href="https://akshat122805.github.io/akshatCSA/">Mean,Median,Mode</a>, <a href="https://akshat122805.github.io/akshatCSA/">JavaScript Calculator</a>, <a href="https://akshat122805.github.io/akshatCSA/">Linux,Bash,Shell Hacks</a></td>
+  </tr>
+  <tr>
+    <td>Week 2 - JS Input/Output & Tunes API</td>
+    <td><a href="https://akshat122805.github.io/akshatCSA/">NBA Fetch API</a>, <a href="https://akshat122805.github.io/akshatCSA/">Tic-Tac-Toe Console Games</a></td>
+    <td><a href="https://akshat122805.github.io/akshatCSA/">Rating Medications Input/Output</a></td>
+  </tr>
+  <tr>
+    <td>Week 3 - Java Mario</td>
+    <td><a href="https://akshat122805.github.io/akshatCSA/">Homepage - Index</a></td>
+    <td><a href="https://akshat122805.github.io/akshatCSA/">Homepage - Index</a></td>
+  </tr>
+  <tr>
+    <td>Week 4 - Primitive Data Tyles</td>
+    <td>INSERT LINK HERE</td>
+    <td>INSERT LINK HERE</td>
+  </tr>
+  <tr>
+    <td>Week 5 - Images and Arrays</td>
+    <td>INSERT LINK HERE</td>
+    <td>INSERT LINK HERE</td>
+  </tr>
+</table>
+
+</body>
+</html>
 
   <summary>Click to see my freeform picture and an explanation!</summary>
 
