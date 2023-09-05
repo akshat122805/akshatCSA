@@ -14,7 +14,7 @@ Blogging in GitHub pages is a way to learn and code at the same time.
 - [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
 - Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
 
-# Lab Notebook
+# Time Box
 
 <html>
 <head>
@@ -37,51 +37,103 @@ tr:nth-child(even) {
 </style>
 </head>
 <body>
+<html>
+<head>
+    <style>
+        /* Table Styles */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            border: 1px solid #ddd;
+            font-family: Arial, sans-serif;
+            margin: 20px 0;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        th, td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+            color: #333;  /* Text color */
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        tbody tr:nth-child(even) {
+            background-color: white;  /* Black background */
+            color: #fff;  /* White text */
+        }
+        tbody tr:nth-child(odd) {
+            background-color: #f2f2f2;
+            color: #333;  /* Dark text */
+        }
+        tbody tr:hover {
+            background-color: #f5f5f5;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        /* Header Styles */
+        h2 {
+            font-family: Arial, sans-serif;
+            color: #fff;  /* White text */
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
 
-<h2>Akshat's Lab Notebook</h2>
+<h2>Akshat's Time Box</h2>
 
 <table>
-  <tr>
-    <th>Week</th>
-    <th>Hacks</th>
-    <th>Personal Hacks</th>
-    <th>Review Ticket</th>
-  </tr>
-  <tr>
-    <td>Week 0 - Tools and Equipment Overview</td>
-    <td><a href="https://akshat122805.github.io/akshatCSA/c1.4/2023/08/15/Tools_Sprint.html">Tools Setup</a></td>
-    <td><a href="https://akshat122805.github.io/akshatCSA/c4.1/2023/08/25/loveletter.html">Love Letter to Tools</a>, <a href="https://akshat122805.github.io/akshatCSA/c4.1/2023/08/23/Calendar.html">JS Calendar</a>, <a href="https://akshat122805.github.io/akshatCSA/c4.1/2023/08/23/weekhacksone.html">GitHub Build</a>
-    <td>No Review Ticket</td>
-</td>
-  </tr>
-  <tr>
-    <td>Week 1 - Java Hello</td>
-    <td><a href="https://akshat122805.github.io/akshatCSA/2023/08/24/firstjava_IPYNB_2_.html">First Java Notebook</a></td>
-    <td><a href="https://akshat122805.github.io/akshatCSA/2023/08/24/firstjava_IPYNB_2_.html">Mean,Median,Mode</a>, <a href="https://akshat122805.github.io/akshatCSA/c4.1/2023/08/23/Calculator.html">JavaScript Calculator</a>, <a href="https://akshat122805.github.io/akshatCSA/2023/08/25/SHELLW1_IPYNB_2_.html">Linux,Bash,Shell Hacks</a></td>
-    <td>NO REVIEW TICKET</td>
-  </tr>
-  <tr>
-    <td>Week 2 - JS Input/Output & Tunes API</td>
-    <td><a href="https://akshat122805.github.io/akshatCSA/2023/08/29/NBAfetch_IPYNB_2_.html">NBA Fetch API</a>, <a href="https://akshat122805.github.io/akshatCSA/2023/08/28/consolegames_IPYNB_2_.html">Tic-Tac-Toe Console Games</a></td>
-    <td><a href="https://akshat122805.github.io/akshatCSA/2023/08/30/QRSCANNER_IPYNB_2_.html">JS Rating Medications Input/Output</a></td>
-  </tr>
-  <tr>
-    <td>Week 3 - Java Mario</td>
-    <td><a href="https://akshat122805.github.io/akshatCSA/">Homepage - Index</a></td>
-    <td><a href="https://akshat122805.github.io/akshatCSA/">Homepage - Index</a></td>
-  </tr>
-  <tr>
-    <td>Week 4 - Primitive Data Tyles</td>
-    <td>INSERT LINK HERE</td>
-    <td>INSERT LINK HERE</td>
-  </tr>
-  <tr>
-    <td>Week 5 - Images and Arrays</td>
-    <td>INSERT LINK HERE</td>
-    <td>INSERT LINK HERE</td>
-  </tr>
+    <thead>
+        <tr>
+            <th>Week</th>
+            <th>Plans</th>
+            <th>Hacks</th>
+            <th>Tangibles</th>
+            <th>Review Ticket/Issues</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for row in site.data.timebox %}
+        <tr>
+            <td>{{ row.week }}</td>
+            <td>
+                {% for plan in row.plans %}
+                {{ plan }}<br>
+                {% endfor %}
+            </td>
+            <td>
+                {% for hack in row.hacks %}
+                {{ hack }}<br>
+                {% endfor %}
+            </td>
+            <td>
+                {% for tangible in row.tangibles %}
+                <a href="{{ tangible.url }}">{{ tangible.text }}</a><br>
+                {% endfor %}
+            </td>
+            <td>
+                {% if row.review[0].url %}
+                {% for review_item in row.review %}
+                <a href="{{ review_item.url }}">{{ review_item.text }}</a><br>
+                {% endfor %}
+                {% else %}
+                {{ row.review }}
+                {% endif %}
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
 </table>
-
+</body>
+</html>
 </body>
 </html>
 

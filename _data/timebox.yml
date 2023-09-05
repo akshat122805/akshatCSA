@@ -1,0 +1,70 @@
+- week: 0
+  plans:
+    - Install and get familiar with tools
+    - Get a feel for bash and wsl
+    - Get familiar with teammate
+  hacks:
+    - Tools Setup
+    - Bash Notebook
+  tangibles:
+    - url: https://akshat122805.github.io/akshatCSA/c4.1/2023/08/25/loveletter.html
+      text: Love Letter to Tools
+    - url: https://akshat122805.github.io/akshatCSA/c4.1/2023/08/23/Calendar.html
+      text: JS Calendar
+    - url: https://akshat122805.github.io/akshatCSA/c4.1/2023/08/23/weekhacksone.html
+      text: GitHub Build
+  review: NO REVIEW TICKET
+
+- week: 1
+  plans:
+    - Collaborate with Vishnu and Vardaan, bond as a team
+    - Decide on our future project
+    - Learn fundamentals of Java (Constructors, Setters, Getters, Syntax)
+  hacks:
+    - First Java Notebook
+    - JS Calculator
+    - Linux Bash Shell Hacks
+  tangibles:
+    - url: https://vishnuaravind12.github.io/vishnu/2023/08/21/hellostatic_IPYNB_2_.html
+      text: FIrst Java Notebook
+    - url: https://akshat122805.github.io/akshatCSA/c4.1/2023/08/23/Calculator.html
+      text: JS Calculator
+    - url: https://akshat122805.github.io/akshatCSA/2023/08/25/SHELLW1_IPYNB_2_.html
+      text: Linux Bash Shell Hacks
+  review: NO REVIEW TICKET
+
+- week: 2
+  plans:
+    - Become used to JS fundamentals, introduce Rohin to our team
+  hacks:
+    - Console Games
+    - Fetch API
+  tangibles:
+    - url: https://akshat122805.github.io/akshatCSA/2023/08/31/snakegame.html
+      text: JS Snake Game 
+    - url: https://akshat122805.github.io/akshatCSA/2023/08/28/consolegames_IPYNB_2_.html
+      text: Console Games
+    - url: https://akshat122805.github.io/akshatCSA/2023/08/30/QRSCANNER_IPYNB_2_.html
+      text: JS Medication Reviewer (Input/Output)
+    - url: https://akshat122805.github.io/akshatCSA/2023/08/29/NBAfetch_IPYNB_2_.html
+      text: Sports Team API Fetch
+  review:
+    - url: https://github.com/akshat122805/akshatCSA/issues/1
+      text: Week 2 Review Ticket - 8/30/2023
+    - url: https://github.com/VishnuAravind12/vishnu/issues/2
+      text: Guidelines for Future Teamwork
+
+- week: 3
+  plans:
+    - Continue woking with Java
+    - Start work with sprites, animate characters
+    - Collaborate more with Mr. Mort
+    - Discuss the possibility of building a fantasy football projection
+  hacks: 
+    - Make GOAT move around - sprite file
+    - Prompt Engineer ChatGPT, write down debugging process
+    - Refine API/Input & Output Assignments
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/2023/08/30/QRSCANNER_IPYNB_2_.html
+      text: JS Medication Input/Output
+  review: Working on it
