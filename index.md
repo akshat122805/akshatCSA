@@ -98,6 +98,7 @@ tr:nth-child(even) {
             <th>Hacks</th>
             <th>Tangibles</th>
             <th>Review Ticket/Issues</th>
+            <th>Debugging Manuals</th>
         </tr>
     </thead>
     <tbody>
@@ -128,11 +129,15 @@ tr:nth-child(even) {
                 {{ row.review }}
                 {% endif %}
             </td>
+            <td>
+                {{ row['debugging manuals'] }}
+            </td>
         </tr>
         {% endfor %}
     </tbody>
 </table>
 </body>
+</html>
 </html>
 </body>
 </html>

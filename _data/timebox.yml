@@ -14,6 +14,7 @@
     - url: https://akshat122805.github.io/akshatCSA/c4.1/2023/08/23/weekhacksone.html
       text: GitHub Build
   review: NO REVIEW TICKET
+  debuggingmanuals: NOT UNLOCKED
 
 - week: 1
   plans:
@@ -32,6 +33,7 @@
     - url: https://akshat122805.github.io/akshatCSA/2023/08/25/SHELLW1_IPYNB_2_.html
       text: Linux Bash Shell Hacks
   review: NO REVIEW TICKET
+  debuggingmanuals: NOT UNLOCKED
 
 - week: 2
   plans:
@@ -53,6 +55,7 @@
       text: Week 2 Review Ticket - 8/30/2023
     - url: https://github.com/VishnuAravind12/vishnu/issues/2
       text: Guidelines for Future Teamwork
+  debuggingmanuals: NOT UNLOCKED
 
 - week: 3
   plans:
@@ -67,4 +70,9 @@
   tangibles: 
     - url: https://akshat122805.github.io/akshatCSA/2023/08/30/QRSCANNER_IPYNB_2_.html
       text: JS Medication Input/Output
+    - url: https://akshat122805.github.io/akshatCSA/2023/08/30/QRSCANNER_IPYNB_2_.html
+      text: Get the Books - API Bookworm
+    - url: https://akshat122805.github.io/akshatCSA/2023/08/30/QRSCANNER_IPYNB_2_.html
+      text: Fantasy Basketball Simulator
   review: Working on it
+  debugging manuals: NOT UNLOCKED
