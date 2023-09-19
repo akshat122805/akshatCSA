@@ -130,7 +130,9 @@ tr:nth-child(even) {
                 {% endif %}
             </td>
             <td>
-                {{ row['debugging manuals'] }}
+                {% for debuggingmanuals in row.debuggingmanuals %}
+                <a href="{{ debuggingmanuals.url }}">{{ debuggingmanuals.text }}</a><br>
+                {% endfor %}
             </td>
         </tr>
         {% endfor %}

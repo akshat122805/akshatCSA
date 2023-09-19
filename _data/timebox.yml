@@ -59,7 +59,7 @@
 
 - week: 3
   plans:
-    - Continue woking with Java
+    - Continue working with Java
     - Start work with sprites, animate characters
     - Collaborate more with Mr. Mort
     - Discuss the possibility of building a fantasy football projection
@@ -71,8 +71,12 @@
     - url: https://akshat122805.github.io/akshatCSA/2023/08/30/QRSCANNER_IPYNB_2_.html
       text: JS Medication Input/Output
     - url: https://akshat122805.github.io/akshatCSA/2023/08/30/QRSCANNER_IPYNB_2_.html
-      text: Get the Books - API Bookworm
+      text: Get the Books - API Bookworm (Unit 2)
     - url: https://akshat122805.github.io/akshatCSA/2023/08/30/QRSCANNER_IPYNB_2_.html
-      text: Fantasy Basketball Simulator
-  review: Working on it
-  debugging manuals: NOT UNLOCKED
+      text: Fantasy Basketball Simulator (Unit 3)
+  review: 
+    - url: https://github.com/akshat122805/akshatCSA/issues/2
+      text: Week 3 Hacks | RT 2 - 09/06/2023
+  debuggingmanuals: 
+    - url: https://github.com/akshat122805/akshatCSA/issues/3
+      text: Week 3 Debugging Manual - FIRST MANUAL!
