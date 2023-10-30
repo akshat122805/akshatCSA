@@ -80,3 +80,136 @@
   debuggingmanuals: 
     - url: https://github.com/akshat122805/akshatCSA/issues/3
       text: Week 3 Debugging Manual - FIRST MANUAL!
+
+- week: 4
+  plans:
+    - Engage in peer teaching and learn from fellow students.
+    - Peer teaching and collaborative learning.
+  hacks: 
+    - Develop a lesson for Unit 5, construct a lesson that has a lot of student interaction
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/2023/08/30/QRSCANNER_IPYNB_2_.html
+      text: Student Lesson
+  review: 
+    - url: https://github.com/akshat122805/akshatCSA/issues/5
+      text: FRQ Mini-Lab Evidence Final Review Ticket
+  debuggingmanuals: 
+    
+- week: 5
+  plans:
+    - Integrate ChatGPT with Java applications.
+    - Introduction to ChatGPT in Java.
+  hacks: 
+    - Document your uses of ChatJPt with Java and how you developed an efficient product.
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/2023/08/30/QRSCANNER_IPYNB_2_.html
+      text: Overview of ChatGPT Implementation
+  review: 
+    - url: https://github.com/akshat122805/akshatCSA/issues/2
+      text: Issue 4
+  debuggingmanuals: 
+
+  - week: 6
+  plans:
+    - Work on Deploying with Vardaan
+    - Brainstorm Passion Project
+    - Understand what our objectives are
+  hacks: 
+    - Use Figma to design the frontend part
+    - Construct the figma design into reality by using JS OOP
+  tangibles: 
+    - url: https://vardaansinha.github.io/cscanvasfrontend/
+      text: JS Student Feature
+    - url: https://vardaansinha.github.io/cscanvasfrontend/teacher
+      text:  JS Teacher - Feature
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
+
+- week: 7
+  plans:
+    - Ideation and work week
+    - Grind CSACanvas.org
+  hacks: 
+    - PP Ideation Checkpoint
+  tangibles: 
+    - url: https://vardaansinha.github.io/cscanvasfrontend/
+      text: JS Student Feature
+    - url: https://vardaansinha.github.io/cscanvasfrontend/teacher
+      text:  JS Teacher - Feature
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
+
+- week: 8
+  plans:
+    - Work on student lessons, participate
+    - PPR feature checkpoint
+    - PP integration checkpoint
+  hacks: 
+    - U3 - Booleans-If|Student-P3
+    - U4 - Iteration Part 1
+    - U5 - Iteration Part 2 
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/2023/10/10/tenlesson_IPYNB_2_.html
+      text: U3 Hacks
+    - url: https://akshat122805.github.io/akshatCSA/2023/10/12/justinjefferson_IPYNB_2_.html
+      text:  U4 Hacks
+    - url: https://akshat122805.github.io/akshatCSA/2023/10/12/justinjefferson_IPYNB_2_.html
+      text:  U5 Hacks
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
+
+- week: 9
+  plans:
+    - Work on student lessons, participate
+    - API, data strategies
+  hacks: 
+    - U5 - Menu Class (Teacher)
+    - U6 - Arrays Part 1 and 2
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/2023/10/12/justinjefferson_IPYNB_2_.html
+      text:  U5 Hacks
+    - url: https://akshat122805.github.io/akshatCSA/2023/10/18/Unit6Arrays_IPYNB_2_.html
+      text:  U6 Hacks
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
+
+- week: 10
+  plans:
+    - Project Documentation - Alien World
+  hacks: 
+    - U7 - ArrayLists Part 1/2
+    - U8 - 2D Array Part 1/2
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/unit-7
+      text:  U7 Hacks
+    - url: https://akshat122805.github.io/akshatCSA/unit8lesson
+      text:  U8 Hacks
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
+
+  - week: 11
+  plans:
+    - Night At The Mueseum 
+    - Grind CSACanvas.org
+  hacks: 
+    - U7 - ArrayLists Part 1/2
+    - U8 - 2D Array Part 1/2
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/unit-7
+      text:  U9 Hacks
+    - url: https://akshat122805.github.io/akshatCSA/unit8lesson
+      text:  U10 Hacks
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
