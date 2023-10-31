@@ -197,18 +197,17 @@
       text: Updating RT - Progress Checkpoints
   debuggingmanuals: 
 
-  - week: 11
+  - week: 10
   plans:
-    - Night At The Mueseum 
-    - Grind CSACanvas.org
+    - Project Documentation - Alien World
   hacks: 
     - U7 - ArrayLists Part 1/2
     - U8 - 2D Array Part 1/2
   tangibles: 
     - url: https://akshat122805.github.io/akshatCSA/unit-7
-      text:  U9 Hacks
+      text:  U7 Hacks
     - url: https://akshat122805.github.io/akshatCSA/unit8lesson
-      text:  U10 Hacks
+      text:  U8 Hacks
   review: 
     - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
       text: Updating RT - Progress Checkpoints
