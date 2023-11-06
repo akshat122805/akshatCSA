@@ -94,7 +94,9 @@
     - url: https://github.com/akshat122805/akshatCSA/issues/5
       text: FRQ Mini-Lab Evidence Final Review Ticket
   debuggingmanuals: 
-    
+    - url: https://clickup.com/blog/scrum-board/
+      text: Week 4 Study Guide/Recap
+
 - week: 5
   plans:
     - Integrate ChatGPT with Java applications.
@@ -108,6 +110,8 @@
     - url: https://github.com/akshat122805/akshatCSA/issues/2
       text: Issue 4
   debuggingmanuals: 
+  - url: https://github.com/
+    text: Week 5 Study Guide/Recap
 
   - week: 6
   plans:
@@ -126,6 +130,8 @@
     - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
       text: Updating RT - Progress Checkpoints
   debuggingmanuals: 
+  - url: https://github.com/
+    text: Week 6 Study Guide/Recap
 
 - week: 7
   plans:
@@ -142,6 +148,8 @@
     - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
       text: Updating RT - Progress Checkpoints
   debuggingmanuals: 
+  - url: https://github.com/
+    text: Week 7 Study Guide/Recap
 
 - week: 8
   plans:
@@ -163,6 +171,8 @@
     - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
       text: Updating RT - Progress Checkpoints
   debuggingmanuals: 
+  - url: https://github.com/
+    text: Week 8 Study Guide/Recap
 
 - week: 9
   plans:
@@ -180,6 +190,8 @@
     - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
       text: Updating RT - Progress Checkpoints
   debuggingmanuals: 
+  - url: https://github.com/
+    text: Week 9 Study Guide/Recap
 
 - week: 10
   plans:
