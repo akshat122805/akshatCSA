@@ -179,13 +179,10 @@
     - Work on student lessons, participate
     - API, data strategies
   hacks: 
-    - U5 - Menu Class (Teacher)
-    - U6 - Arrays Part 1 and 2
+    - U9
   tangibles: 
-    - url: https://akshat122805.github.io/akshatCSA/2023/10/12/justinjefferson_IPYNB_2_.html
-      text:  U5 Hacks
-    - url: https://akshat122805.github.io/akshatCSA/2023/10/18/Unit6Arrays_IPYNB_2_.html
-      text:  U6 Hacks
+    - url: https://akshat122805.github.io/akshatCSA/c4.0/2023/10/30/Unit9LessonEDNP_IPYNB_2_.html
+      text:  U9 Hacks and Lesson
   review: 
     - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
       text: Updating RT - Progress Checkpoints
@@ -197,30 +194,12 @@
   plans:
     - Project Documentation - Alien World
   hacks: 
-    - U7 - ArrayLists Part 1/2
-    - U8 - 2D Array Part 1/2
+    - U10
   tangibles: 
-    - url: https://akshat122805.github.io/akshatCSA/unit-7
-      text:  U7 Hacks
-    - url: https://akshat122805.github.io/akshatCSA/unit8lesson
-      text:  U8 Hacks
+    - url: https://akshat122805.github.io/akshatCSA/lesson10okay
+      text:  U10 Hacks and Lesson
   review: 
     - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
       text: Updating RT - Progress Checkpoints
   debuggingmanuals: 
 
-  - week: 10
-  plans:
-    - Project Documentation - Alien World
-  hacks: 
-    - U7 - ArrayLists Part 1/2
-    - U8 - 2D Array Part 1/2
-  tangibles: 
-    - url: https://akshat122805.github.io/akshatCSA/unit-7
-      text:  U7 Hacks
-    - url: https://akshat122805.github.io/akshatCSA/unit8lesson
-      text:  U8 Hacks
-  review: 
-    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
-      text: Updating RT - Progress Checkpoints
-  debuggingmanuals: 
