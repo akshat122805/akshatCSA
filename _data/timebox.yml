@@ -203,3 +203,246 @@
       text: Updating RT - Progress Checkpoints
   debuggingmanuals: 
 
+
+- week: 11
+  plans:
+    - U9 Fibonacci/U10 Fibonacci
+    - Recursion Lesson
+  hacks: 
+    - U9/U10
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/lesson10okay
+      text:  U10 Hacks and Lesson
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
+
+  
+- week: 12
+  plans:
+    - Ideation Week - Project Structures
+  hacks: 
+    - N/A - Ideation Presented
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/lesson10okay
+      text:  Ideation
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
+
+  
+- week: 13
+  plans:
+    - Analysis, CSA Mini Project
+  hacks: 
+    - Work Week
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/lesson10okay
+      text:  Work Progress
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
+
+  
+- week: 14
+  plans:
+    - Collectable Lesson
+  hacks: 
+    - U10
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/lesson10okay
+      text:  Lesson
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
+
+  
+- week: 15
+  plans:
+    - UX, jQuery CRUD
+    - UX, Styling with SASS
+  hacks: 
+    - SASS Student P3
+    - jQuery P3
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/lesson10okay
+      text:  SASS and Jquery Hacks and Lesson
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
+
+  
+- week: 16
+  plans:
+    - UX BE Spring/Thymeleaf 
+    - Java, SQL, Hashmap Collection
+  hacks: 
+    - SQL and HashMap Hacks
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/lesson10okay
+      text:  SQL and HashMap Hacks
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
+
+  
+- week: 17
+  plans:
+    - Java, Exploits | CORS | DotEnv
+    - Java, Security | JWT
+  hacks: 
+    - JWT, Java Security
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/lesson10okay
+      text: JWT Java Security
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
+
+  
+- week: 18
+  plans:
+    - CSA | JWT | Login Project
+  hacks: 
+    - N/A
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/lesson10okay
+      text:  N/A
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
+
+  
+- week: 19
+  plans:
+    - Login, POST, Spring Roles
+  hacks: 
+    - POST JASONB
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/lesson10okay
+      text:  POST AND JSONB
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
+
+  
+- week: 20
+  plans:
+    - Cloud Workspace Automation Plan
+    - Cockpit Setup
+  hacks: 
+    - Deployment P3
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/lesson10okay
+      text:  Deployment P3 RT
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
+
+  
+- week: 21
+  plans:
+    - N/A
+  hacks: 
+    - N/A
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/lesson10okay
+      text:  N/A
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
+
+  
+- week: 22
+  plans:
+    - Course Description
+  hacks: 
+    - N/A
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/lesson10okay
+      text:  N/A
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: N/A
+  debuggingmanuals: 
+
+  
+- week: 23
+  plans:
+    - N/A
+  hacks: 
+    - N/A
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/lesson10okay
+      text:  N/A
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: N/A
+  debuggingmanuals: 
+
+  
+- week: 24
+  plans:
+    - Book and Library FRQ
+  hacks: 
+    - Book and Library FRQ
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/lesson10okay
+      text:  Book and Library FRQ
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
+
+  
+- week: 25
+  plans:
+    - Data Types
+  hacks: 
+    - Data Types
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/lesson10okay
+      text:  Data Types
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
+
+  
+- week: 26
+  plans:
+    - Collectable Types and Collections
+  hacks: 
+    - Collectable Types and Collections
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/lesson10okay
+      text:  Collectable Types and Collections
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
+
+  
+- week: 27
+  plans:
+    - Sorts Part 1
+  hacks: 
+    - Sorts Part 1
+  tangibles: 
+    - url: https://akshat122805.github.io/akshatCSA/lesson10okay
+      text: Sorts Part 1
+  review: 
+    - url: https://github.com/vardaansinha/cscanvasfrontend/issues/2
+      text: Updating RT - Progress Checkpoints
+  debuggingmanuals: 
