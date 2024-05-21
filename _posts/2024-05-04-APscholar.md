@@ -39,7 +39,7 @@ Arrays are a fundamental data structure in Java that allow you to store multiple
 | 5 |  |  |  | [Link]() |
 | 6 |  |  |  | [Link]() |
 
-## Data Types and Control Structures:
+## Data Types and Control Structures
 
 In Java, data types define the kind of data that a variable can hold. Primitive data types include int (integer), double (floating-point number), char (character), boolean (true or false), byte, short, long, and float. Each primitive type has a specific size and range. Reference data types include classes, arrays, and interfaces, which are more complex structures that can hold multiple values or objects. Proper use of data types ensures efficient memory usage and helps prevent errors in programs.
 
