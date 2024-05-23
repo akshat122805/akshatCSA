@@ -32,8 +32,8 @@ Arrays are a fundamental data structure in Java that allow you to store multiple
 
 | Top Array Guides | Lesson | Authors | Summary | Source |
 |------|--------|---------|---------|------|
-| 1 |  | | |  | [Link]() |
-| 2 |  |  |  | [Link]() |
+| 1 | Varalu N. | | |  | [Link]() |
+| 2 | Vardaan S. |  |  | [Link]() |
 | 3 |  |  |  | [Link]() |
 | 4 |  |  |  | [Link]() |
 | 5 |  |  |  | [Link]() |
