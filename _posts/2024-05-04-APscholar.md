@@ -32,7 +32,7 @@ Arrays are a fundamental data structure in Java that allow you to store multiple
 
 | Top Array Guides | Lesson | Authors | Summary | Source |
 |------|--------|---------|---------|------|
-| 1 | | | |  | [Link]() |
+| 1 |  | | |  | [Link]() |
 | 2 |  |  |  | [Link]() |
 | 3 |  |  |  | [Link]() |
 | 4 |  |  |  | [Link]() |
@@ -93,6 +93,19 @@ A 2D array, or multidimensional array, is essentially an array of arrays. It is 
 | Top 2D Array Guides | Lesson | Authors | Summary | Source |
 |------|--------|---------|---------|------|
 | 1 | | | |  | [Link]() |
+| 2 |  |  |  | [Link]() |
+| 3 |  |  |  | [Link]() |
+| 4 |  |  |  | [Link]() |
+| 5 |  |  |  | [Link]() |
+| 6 |  |  |  | [Link]() |
+
+## AP Exam FRQ Reflections (2024)
+
+This table consists of issues that reflect on different AP exam FRQ(s):
+
+| Top 2D Array Guides | Lesson | Authors | Summary | Source |
+|------|--------|---------|---------|------|
+| 1 | CSA 2015 FRQ Analysis and Reflection | Orlando Carcamo | Orlando's FRQ response (Scored 100%) |  | [Link](https://github.com/Orlando-c/que-pro-dos/issues/5) |
 | 2 |  |  |  | [Link]() |
 | 3 |  |  |  | [Link]() |
 | 4 |  |  |  | [Link]() |
